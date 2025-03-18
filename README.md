@@ -1,17 +1,19 @@
-# Iris_EDA_ML
-Iris Data Analysis and Machine Learning Exploratory Data Analysis (EDA) and ML Model Training
+# IRIS Data Machine Learning Modeling
 
-## The Iris dataset is a famous dataset that comes pre-loaded with several Python libraries like sklearn (scikit-learn) and seaborn. It is widely used for demonstrating machine learning algorithms and statistical analysis.
+## Overview
+This project focuses on performing Machine Learning modeling and Exploratory Data Analysis (EDA) using the **Iris dataset**. The dataset is analyzed in a **Jupyter Notebook**, covering various steps such as:
 
-Here's an overview of the Iris dataset:
+- Data loading
+- Exploratory Data Analysis (EDA)
+- Preprocessing
+- Model training
+- Evaluation
 
-Features: The dataset contains 150 samples of iris flowers, with each sample having four features:
-Sepal length in cm
-Sepal width in cm
-Petal length in cm
-Petal width in cm
+The implementation is carried out using Python's **scikit-learn** library, which provides inbuilt support for the Iris dataset and facilitates model training.
 
-Target: The target variable is the species of the iris flower, which can be one of the following three classes:
-Setosa (class 0)
-Versicolor (class 1)
-Virginica (class 2)
+## Dataset and Visualizations
+
+### Sample Visualizations:
+![image](https://github.com/user-attachments/assets/1e711e71-d7d8-4b3d-8a3e-d64254200b40)
+
+![image](https://github.com/user-attachments/assets/95b47ea2-111f-4123-83c5-5ab8bbe61677)
