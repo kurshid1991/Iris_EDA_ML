@@ -1,13 +1,14 @@
 # IRIS Data Machine Learning Modeling
 
 ## Overview
+
 This project focuses on performing Machine Learning modeling and Exploratory Data Analysis (EDA) using the **Iris dataset**. The dataset is analyzed in a **Jupyter Notebook**, covering various steps such as:
 
-- Data loading
-- Exploratory Data Analysis (EDA)
-- Preprocessing
-- Model training
-- Evaluation
+1. Data loading
+2.  Exploratory Data Analysis (EDA)
+3.  Preprocessing
+4.  Model training
+5.  Evaluation
 
 The implementation is carried out using Python's **scikit-learn** library, which provides inbuilt support for the Iris dataset and facilitates model training.
 
